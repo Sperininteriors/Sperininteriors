@@ -1,3 +1,5 @@
+import './globals.css'
+
 export const metadata = {
   title: "Sperin Interiors",
   description: "Complete Home Renovation & Building Specialists",
